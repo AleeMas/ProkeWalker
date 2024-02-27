@@ -1,4 +1,4 @@
-# ProkeWalker
+# ProkeWalker for Pokemon Revolution Online
 The ProkeWalker is a bot made to assist trainers in optimizing their gameplay experience assisting the actions in the Pokemon Revolution Online universe that are repeated and become boring . This bot allowe trainers to find specific pokemon and train Evs and catch.
 ## Features
 - Find Pokemon: run out from all pokemon exept the one you're looking for, it stop when he find the pokemon sending you notification
