@@ -3,3 +3,5 @@ The ProkeWalker is a bot made to assist trainers in optimizing their gameplay ex
 
 Be sure you always open before the game and then start the bot
 Edit discord weeb hook for get norify about catch in your prefered discord
+Chose your prefered jingle, if you want edit it in the folder.
+
