@@ -22,3 +22,4 @@ For get notify on Discord, jingle or both compile form in the notification secti
 - Edit discord weeb hook for get norify about catch in your prefered discord (constant.py)
 - Chose your prefered jingle, if you want edit it in the folder sounds.
 
+![Test Image](ProkeWalkerUI.jpg)
