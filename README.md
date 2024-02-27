@@ -9,10 +9,10 @@ The ProkeWalker is a bot made to assist trainers in optimizing their gameplay ex
 - Catch while evsing: fights with moves you selected or random moves against pokemon giving evs selected below, but stops if it encounters the pokemon written in the box sending you notification
 
 - Catch rutine: with the catch rutine you can configurate your own steps of operations when you find a pokemon that you want to catch:
-    -changePokemon(position), this will change pokemon with the one you chose from 1 to 6
-    -makeMoves(position), this will chose the move the pokemon you have in comat will to from 1 to 4
-    -catchTries(tries,pokebal), this will try to catch the pokemon fr "tries" times using the pokebal you choose depending the position if has in your bag
-    -run(tries), this option will exape from the battle "tries" times, use this in case bot won't catch the pokemn after the tries you chose in the previous operation
+  -changePokemon(position), this will change pokemon with the one you chose from 1 to 6
+  -makeMoves(position), this will chose the move the pokemon you have in comat will to from 1 to 4
+  -catchTries(tries,pokebal), this will try to catch the pokemon fr "tries" times using the pokebal you choose depending the position if has in your bag
+  -run(tries), this option will exape from the battle "tries" times, use this in case bot won't catch the pokemn after the tries you chose in the previous operation
 
 *Notification
 For get notify on Discord, jingle or both compile form in the notification section. Notify is starting if you find the pokemon you're looking for or if there is rare pokemon (shiny form)
